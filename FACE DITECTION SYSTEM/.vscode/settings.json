@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\dharm\\Downloads\\jar_files\\opencv-3.4.1-1.4.1.jar",
+        "c:\\Users\\dharm\\Downloads\\jar_files\\javacpp-1.4.1.jar",
+        "c:\\Users\\dharm\\Downloads\\opencv\\build\\java\\opencv-341.jar"
+    ]
+}
